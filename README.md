@@ -19,5 +19,5 @@ To play the rock paper scissors game there is no need to download the actual cod
 - (Opera Users) Tools > Advanced > Developer tools > Console
 - (Google Chrome Users) View > Developer > Developer Tools > Console
 - (Firefox Users) Tools > Web Developer > Web Console
-- paste code inside console <br></br>
+- paste code inside console & Press "Enter" <br></br>
 ** Rock & Roll !!**
